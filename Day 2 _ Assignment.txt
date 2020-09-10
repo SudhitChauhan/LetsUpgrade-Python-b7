@@ -1,0 +1,16 @@
+﻿Day 2 : Assignment 
+1) List and it default functions
+Ans :- List is a collection which is ordered and changeable. Allows duplicate members.
+append() , clear() , copy() , count() , extend() , index() , insert() , pop() , remove() , reverse() , sort() .
+2) Dictionary and it default functions
+Ans :- Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+clear() , copy() , fromkeys() ,get() , items() , keys() , pop() , popitem() , setdefault() , update() , values() .
+3) set and it default functions
+Ans :- Set is a collection which is unordered and unindexed. No duplicate members.
+add copy difference clear() , difference_update() , discard() , intersection() , intersection_update() , isdisjoint() , issubset() , issuperset() , pop() , remove() , symmetric() , union() update().
+4) tuple and it default functions
+Ans :- Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+count() , index()
+5) String and it default functions
+Ans :- collection of characters .
+count() , find() , format() , index() , join().
