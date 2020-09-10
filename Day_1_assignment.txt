@@ -1,0 +1,18 @@
+﻿DAY - 1 : Assignment 
+
+1) What is python ? What are the ways to install python in PC ? 
+Ans :- Python is an interpreted, high-level and general-purpose programming language.
+step 1 : visit Python website
+step 2 : find " Looking to python with a different OS? Python for Windows,Linux/Unix " this type line & Click the Windows link (two lines below the Download Python 3.7.4 button).
+step 3 : Click on the Download Windows x86-64 executable installer link under the top-left Stable Releases.
+Show you pop-up & Click the Save File button.The file named python-3.7.4-amd64.exe should start downloading into your standard download folder.
+step 4 : Start the Installing , Double-click the icon labeling the file python-3.7.4-amd64.exe. show you pop-up,  Then after Click " Install launcher for all users (recommended) " and the Add Python 3.7 to PATH 
+step 5 : Highlight the " Install Now " (or Upgrade Now) message, and then click it.
+When run, a User Account Control pop-up window may appear on your screen. Do you want to allow this app to make changes to your device.
+Click " yes "
+step 6 : Soon, a new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup was successfuly message.Click the Close button. Python should now be installed.
+
+2) What are code environment ? Types ? 
+Ans : A code environment is a standalone and self-contained environment to run python & R code. 
+Types :-  Three types 
+Local environment,  Virtual environment,  Cloud environment. 
