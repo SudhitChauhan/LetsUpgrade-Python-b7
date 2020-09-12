@@ -1,0 +1,12 @@
+file = open('Binary_file.bin','w')
+file.write("I love LetsUpgrade !")
+file.close()
+file = open('Binary_file.bin','r')
+print(file.read())
+file.close()
+file = open('Binary_file.bin','a')
+file.write("\nWe all Love Python Classes with LU !")
+file.close()
+with open("Binary_file.bin",'r') as file:
+	data = file.read()
+	print(data)
