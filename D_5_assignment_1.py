@@ -1,0 +1,6 @@
+file = open("joy.txt",'w')
+file.write("I love FCS !")
+file.close()
+file = open("joy.txt",'r')
+print(file.read())
+file.close()
